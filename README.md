@@ -9,6 +9,7 @@
 ---
 
 ### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=Mano4ka
 
 <!---
 Mano4ka/Mano4ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
