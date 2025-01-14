@@ -33,8 +33,8 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows11" alt="Windows11" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="Archlinux" alt="Archlinux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg"  title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="Archlinux" alt="Archlinux" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg"  title="Ubuntu" alt="Ubuntu" width="80" height="80"/>&nbsp;
 </div>
 
 ---
