@@ -10,7 +10,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mano4ka&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mano4ka&hide_border=&short_numbers=&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 <!---
 Mano4ka/Mano4ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
