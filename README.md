@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mano4ka_gg
 - 👀 I'm interested in website development and bots.
-- 🌐 Мy web profile.
+- 🌐 Мy web profile - [p.blade-rust.ru/mano4ka](https://p.blade-rust.ru/mano4ka).
 - 🔗 My contacts - Discord : [mano4kagg](https://discord.com/users/515397815225155585/) | Telegram : [mano4ka_gg](https://t.me/mano4ka_gg)
 
 ---
